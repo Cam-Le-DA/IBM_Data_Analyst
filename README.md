@@ -1,3 +1,3 @@
-# Course_4_Python
+# IBM Data Analyst
 
-Python for Data Science, AI & Development
+Coursera
